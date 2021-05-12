@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+title: Title set from yml
+description: some description from yml
